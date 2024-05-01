@@ -22,6 +22,10 @@
         "post-install-cmd": [
             "echo 'Copying files...'",
             "cp -R vendor/entercode/pipis-anime/pipis ./"
+        ],
+        "post-update-cmd": [
+            "echo 'Copying files...'",
+            "cp -R vendor/entercode/pipis-anime/pipis ./"
         ]
     }
 }
