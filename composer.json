@@ -17,5 +17,11 @@
     ],
     "require": {},
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "scripts": {
+        "post-install-cmd": [
+            "echo 'Copying files...'",
+            "cp -R vendor/entercode/pipis-anime/pipis ./"
+        ]
+    }
 }
