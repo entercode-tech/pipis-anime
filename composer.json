@@ -19,11 +19,11 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
-        "post-install-cmd": [
+        "post-package-install": [
             "echo 'Copying files...'",
             "cp -R vendor/entercode/pipis-anime/pipis ./"
         ],
-        "post-update-cmd": [
+        "post-package-update": [
             "echo 'Copying files...'",
             "cp -R vendor/entercode/pipis-anime/pipis ./"
         ]
