@@ -13,5 +13,7 @@
             "email": "mitsukiraikiri@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
