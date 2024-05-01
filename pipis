@@ -1,0 +1,4 @@
+<?php
+$home_path = __DIR__;
+$lib_path = 'vendor/pipis-anime';
+require $home_path.'/'.$lib_path.'/core/init.php';
