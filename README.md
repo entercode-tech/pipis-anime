@@ -1,6 +1,6 @@
 Halo Oni-Chan !<br>
 
-Ini adalah library yang dapat membantu kamu dalah urusan kodning mengkoding PHP (lambo) !<br>
+Ini adalah library yang dapat membantu kamu dalam urusan koding mengkoding PHP (lambo) !<br>
 
 Fiturnya baru satu :( nanti tunggu update selanjutnya ya untuk fitur lainnya.<br>
 
