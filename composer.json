@@ -1,0 +1,17 @@
+{
+    "name": "entercode/pipis-anime",
+    "description": "php helper by mitsuki entercode",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Entercode\\PipisAnime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mitsukiraikiri",
+            "email": "mitsukiraikiri@gmail.com"
+        }
+    ],
+    "require": {}
+}
