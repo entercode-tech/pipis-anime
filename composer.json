@@ -1,7 +1,8 @@
 {
     "name": "entercode/pipis-anime",
-    "description": "php helper by mitsuki entercode",
+    "description": "PHP helper by Mitsuki Entercode",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Entercode\\PipisAnime\\": "src/"
@@ -9,11 +10,12 @@
     },
     "authors": [
         {
-            "name": "mitsukiraikiri",
-            "email": "mitsukiraikiri@gmail.com"
+            "name": "Mitsuki Raikiri",
+            "email": "mitsukiraikiri@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {},
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
